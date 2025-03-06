@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "BluetoothApp",
+    "slug": "BluetoothApp",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "fae181e7-2bae-47e8-9f7c-d22407e32dac"
+      }
+    },
+    "android": {
+      "package": "com.anonymous.BluetoothApp"
+    }
+  }
+}
